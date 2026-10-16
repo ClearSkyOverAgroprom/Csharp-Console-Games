@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Blackjack/Blackjack.csproj" />
+  <Project Path="Calc/Calc.csproj" />
+  <Project Path="DerGrusel/DerGrusel.csproj" />
+  <Project Path="Ultra Calc Xtrem/Ultra Calc Xtrem.csproj" />
+  <Project Path="Umamusume/Umamusume.csproj" />
+</Solution>
